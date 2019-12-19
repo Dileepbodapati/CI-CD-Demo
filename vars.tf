@@ -3,5 +3,5 @@ variable  "instance_count"  {
 }
 variable "instance_tags"  {
   type  = "list"
-  default = [ "devops_tomcat_dev"]
+  default = [ "devops_tomcat_dev_deepu"]
 }
